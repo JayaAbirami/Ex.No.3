@@ -1,7 +1,7 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:15-09-2025                                                                            
+### REGISTER NUMBER : 212223220038
 ### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
 
 ### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
@@ -459,18 +459,6 @@ Design a conversation flow for handling return requests with this structure:
 | Return method selection | Must offer available return methods |
 | Confirmation | Must provide tracking/reference number |
 
-Implementation Framework
-Based on the analysis, we developed a guided framework for selecting optimal prompt techniques throughout the chatbot development lifecycle:
-Development Phase Matrix:
-Development Phase	Primary Technique	Secondary Technique	Key Consideration
-Initial Concept	Preceding Question	Straightforward	Focus on problem exploration
-Requirements Definition	Preceding Question	Tabular Format	Comprehensive coverage
-Architecture Design	Tabular Format	Straightforward	Technical specificity
-Conversation Flow	Hybrid	Preceding Question	Natural interaction patterns
-Integration Planning	Tabular Format	Preceding Question	Technical accuracy
-Testing Strategy	Preceding Question	Tabular Format	Edge case identification
-Implementation	Straightforward	Tabular Format	Practical guidance
-Evaluation	Tabular Format	Straightforward	Structured metrics
 
 Platform-Specific Adaptations:
 For ChatGPT & Bard: Emphasize tabular format with precise parameters
